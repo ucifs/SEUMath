@@ -1,1 +1,10 @@
-# Southeast-University-Advanced-Mathematics-A
+#东南大学高等数学A复习整理
+
+预计更新至2018.7.2日
+
+更新日志：
+
+2018.1.9 上传常微分方程.pdf
+
+
+
