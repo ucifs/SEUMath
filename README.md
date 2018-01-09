@@ -1,4 +1,4 @@
-#东南大学高等数学A、几何与代数（B）、离散数学复习整理
+#东南大学高等数学A、几何与代数（B）、离散数学、概率论复习整理
 
 If it's helpful for you, that will be my fortune.
 如果你觉得对你有帮助，你可以施舍我一个star~ Thank u!
