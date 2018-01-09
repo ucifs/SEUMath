@@ -10,6 +10,8 @@ If it's helpful for you, that will be my fortune.
 
 2018.1.9 上传一元函数积分学.pdf
 
+2018.1.9 上传期中期末复习ppt(贺传富）
+
 2018.1.10 计划上传 一元函数微分学.pdf
 
 
