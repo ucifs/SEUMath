@@ -1,6 +1,7 @@
 #东南大学高等数学A复习整理
 
 If it's helpful for you, that will be my fortune.
+如果你觉得对你有帮助，你可以施舍我一个star~ Thank u!
 
 预计更新至2018.7.2日
 
