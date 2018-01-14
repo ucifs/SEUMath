@@ -17,6 +17,8 @@ If it's helpful for you, that will be my fortune.
 
 2018.1.9 上传几代期末复习总结pdf&ppt
 
+2018.1.19 更新期末复习ppt（答案版 大部分经MMA验证)
+
 
 
 
