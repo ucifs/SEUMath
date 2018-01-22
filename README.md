@@ -19,6 +19,8 @@ If it's helpful for you, that will be my fortune.
 
 2018.1.19 更新期末复习ppt（答案版 大部分经MMA验证)
 
+2018.1.22 上传东大绩点计算（含北大4.0、国际标准4.0）计算，使用方法见文件。
+
 
 
 
